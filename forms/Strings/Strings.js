@@ -1,4 +1,4 @@
-//Question 8
+//Problem 8 
 let quoteString = "Failure is simply the opportunity to begin again this time more intelligently."
  quoteString = quoteString.toUpperCase()
 alert(`Upper case string is: ${quoteString}`)
